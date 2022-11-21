@@ -1,1 +1,2 @@
-# Notes app
+# Link to the page
+https://jihau.github.io/demo2/
